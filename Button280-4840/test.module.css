@@ -1,0 +1,173 @@
+* { 
+	outline: 1px solid red; 
+}
+
+.Button_268 {
+	width: 171px;
+	height: 48px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 0;
+	position: relative;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+	transition-duration: 0.15s;
+	transition-timing-function: linear;
+}
+
+._Button___Element___Base_Default_389 {
+	width: 171px;
+	height: 48px;
+	border-radius: 5px;
+	background-color: rgba(247, 107, 113, 1);
+	gap: 8px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding-left: 24px;
+	padding-right: 24px;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.icon_left_693 {
+	width: 24px;
+	height: 24px;
+	gap: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.favorite_902 {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Frame_723 {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Vector_599 {
+	width: 20.300048828125px;
+	height: 18.125px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.text_35 {
+	width: 59px;
+	height: 48px;
+	gap: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+._Button___Element___Label_280 {
+	width: 59px;
+	height: 27px;
+	display: flex;
+	flex-direction: row;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.text_841 {
+	flex: none;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	color: rgba(17, 26, 34, 1);
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18px;
+	font-family: Inter;
+	font-style: normal;
+	letter-spacing: 0px;
+	line-height: 27px;
+	margin-top: 0;
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+
+.icon_right_467 {
+	width: 24px;
+	height: 24px;
+	gap: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.arrow_forward_114 {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Frame_395 {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Vector_661 {
+	width: 15.800048828125px;
+	height: 15.38818359375px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
