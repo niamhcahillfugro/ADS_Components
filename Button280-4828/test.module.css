@@ -2,8 +2,8 @@
 	outline: 1px solid red; 
 }
 
-.Button_158 {
-	width: 107px;
+.Button_645 {
+	width: 171px;
 	height: 48px;
 	display: flex;
 	flex-direction: row;
@@ -16,8 +16,8 @@
 	transition-timing-function: linear;
 }
 
-._Button___Element___Base_Default_836 {
-	width: 107px;
+._Button___Element___Base_Default_199 {
+	width: 171px;
 	height: 48px;
 	border-radius: 5px;
 	background-color: rgba(75, 178, 249, 1);
@@ -32,11 +32,11 @@
 	box-sizing: border-box;
 }
 
-.icon_left_920 {
+.icon_left_356 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
-	display: none;
+	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
@@ -45,7 +45,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_504 {
+.favorite_17 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -54,7 +54,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_525 {
+.Frame_949 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -67,7 +67,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_945 {
+.Vector_42 {
 	width: 20.300048828125px;
 	height: 18.125px;
 	position: absolute;
@@ -80,7 +80,7 @@
 	box-sizing: border-box;
 }
 
-.text_764 {
+.text_190 {
 	width: 59px;
 	height: 48px;
 	gap: 10px;
@@ -93,7 +93,7 @@
 	box-sizing: border-box;
 }
 
-._Button___Element___Label_832 {
+._Button___Element___Label_736 {
 	width: 59px;
 	height: 27px;
 	display: flex;
@@ -103,7 +103,7 @@
 	box-sizing: border-box;
 }
 
-.text_236 {
+.text_632 {
 	flex: none;
 	position: absolute;
 	left: 0px;
@@ -123,11 +123,11 @@
 	font-weight: 600;
 }
 
-.icon_right_517 {
+.icon_right_874 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
-	display: none;
+	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
@@ -136,7 +136,7 @@
 	box-sizing: border-box;
 }
 
-.arrow_forward_824 {
+.arrow_forward_874 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -145,7 +145,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_676 {
+.Frame_893 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -158,7 +158,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_30 {
+.Vector_814 {
 	width: 15.800048828125px;
 	height: 15.38818359375px;
 	position: absolute;
