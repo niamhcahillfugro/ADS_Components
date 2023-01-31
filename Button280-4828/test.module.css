@@ -2,7 +2,7 @@
 	outline: 1px solid red; 
 }
 
-.Button_952 {
+.Button_540 {
 	width: 139px;
 	height: 48px;
 	display: flex;
@@ -16,7 +16,7 @@
 	transition-timing-function: linear;
 }
 
-._Button___Element___Base_Default_896 {
+._Button___Element___Base_Default_21 {
 	width: 139px;
 	height: 48px;
 	border-radius: 5px;
@@ -32,7 +32,7 @@
 	box-sizing: border-box;
 }
 
-.icon_left_184 {
+.icon_left_979 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -45,7 +45,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_374 {
+.favorite_448 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -54,7 +54,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_689 {
+.Frame_432 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -67,7 +67,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_153 {
+.Vector_174 {
 	width: 20.300048828125px;
 	height: 18.125px;
 	position: absolute;
@@ -80,7 +80,7 @@
 	box-sizing: border-box;
 }
 
-.text_0 {
+.text_32 {
 	width: 59px;
 	height: 48px;
 	gap: 10px;
@@ -93,7 +93,7 @@
 	box-sizing: border-box;
 }
 
-._Button___Element___Label_394 {
+._Button___Element___Label_424 {
 	width: 59px;
 	height: 27px;
 	display: flex;
@@ -103,7 +103,7 @@
 	box-sizing: border-box;
 }
 
-.text_74 {
+.text_680 {
 	flex: none;
 	position: absolute;
 	left: 0px;
@@ -123,7 +123,7 @@
 	font-weight: 600;
 }
 
-.icon_right_463 {
+.icon_right_687 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -136,7 +136,7 @@
 	box-sizing: border-box;
 }
 
-.arrow_forward_914 {
+.arrow_forward_419 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -145,7 +145,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_269 {
+.Frame_952 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -158,7 +158,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_85 {
+.Vector_838 {
 	width: 15.800048828125px;
 	height: 15.38818359375px;
 	position: absolute;
