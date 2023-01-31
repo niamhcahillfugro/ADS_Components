@@ -2,7 +2,7 @@
 	outline: 1px solid red; 
 }
 
-.Button_266 {
+.Button_800 {
 	width: 139px;
 	height: 48px;
 	display: flex;
@@ -16,7 +16,7 @@
 	transition-timing-function: linear;
 }
 
-._Button___Element___Base_Default_741 {
+._Button___Element___Base_Default_453 {
 	width: 139px;
 	height: 48px;
 	border-radius: 5px;
@@ -32,7 +32,7 @@
 	box-sizing: border-box;
 }
 
-.icon_left_538 {
+.icon_left_819 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -45,7 +45,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_223 {
+.favorite_507 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -54,7 +54,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_855 {
+.Frame_788 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -67,7 +67,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_804 {
+.Vector_737 {
 	width: 20.300048828125px;
 	height: 18.125px;
 	position: absolute;
@@ -80,7 +80,7 @@
 	box-sizing: border-box;
 }
 
-.text_344 {
+.text_763 {
 	width: 59px;
 	height: 48px;
 	gap: 10px;
@@ -93,7 +93,7 @@
 	box-sizing: border-box;
 }
 
-._Button___Element___Label_940 {
+._Button___Element___Label_364 {
 	width: 59px;
 	height: 27px;
 	display: flex;
@@ -103,7 +103,7 @@
 	box-sizing: border-box;
 }
 
-.text_987 {
+.text_281 {
 	flex: none;
 	position: absolute;
 	left: 0px;
@@ -123,7 +123,7 @@
 	font-weight: 600;
 }
 
-.icon_right_443 {
+.icon_right_48 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -136,7 +136,7 @@
 	box-sizing: border-box;
 }
 
-.arrow_forward_804 {
+.arrow_forward_400 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -145,7 +145,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_895 {
+.Frame_591 {
 	width: 24px;
 	height: 24px;
 	position: absolute;
@@ -158,7 +158,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_694 {
+.Vector_192 {
 	width: 15.800048828125px;
 	height: 15.38818359375px;
 	position: absolute;
