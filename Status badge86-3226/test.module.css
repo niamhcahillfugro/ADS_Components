@@ -1,0 +1,44 @@
+* { 
+	outline: 1px solid red; 
+}
+
+.Status_badge_101 {
+	width: 20px;
+	height: 20px;
+	drop-shadow: (0 1 3 rgba(0, 0, 0, 0.30000001192092896));
+	position: relative;
+	left: 0px;
+	top: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.base_562 {
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 1);
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.vector_90 {
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
