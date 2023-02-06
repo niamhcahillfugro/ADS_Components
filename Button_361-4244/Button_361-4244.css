@@ -4,6 +4,8 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
+	display: flex;
+	flex-direction: row;
 }
 
 ._Button / Element / Base Default {
@@ -13,6 +15,8 @@
 	background-color: rgb(75, 178, 249);
 	opacity: 1;
 	gap: 8px;
+	display: flex;
+	flex-direction: row;
 }
 
 .text {
@@ -20,6 +24,8 @@
 	height: 48px;
 	border-radius: 0px;
 	gap: 10px;
+	display: flex;
+	flex-direction: row;
 }
 
 ._Button / Element / Label {
@@ -28,6 +34,8 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
+	display: flex;
+	flex-direction: row;
 }
 
 .text {
