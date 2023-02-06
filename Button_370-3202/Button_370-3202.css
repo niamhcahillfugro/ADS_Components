@@ -15,12 +15,10 @@
 	box-sizing: border-box;
 }
 
-.-Button-Element-Base-Default_I370-3202-3239-61829 {
+.-Button-Element-Base-Default_I370-3202-3239-61925 {
 	width: 78px;
 	height: 36px;
 	border-radius: 6px;
-	background-color: rgb(75, 178, 249);
-	opacity: 1;
 	gap: 6px;
 	display: flex;
 	flex-direction: row;
@@ -33,7 +31,7 @@
 	box-sizing: border-box;
 }
 
-.text_I370-3202-3239-61829-2504-64055 {
+.text_I370-3202-3239-61925-2504-64055 {
 	width: 46px;
 	height: 36px;
 	border-radius: 0px;
@@ -49,7 +47,7 @@
 	box-sizing: border-box;
 }
 
-.-Button-Element-Label_I370-3202-3239-61829-2504-64056 {
+.-Button-Element-Label_I370-3202-3239-61925-2504-64056 {
 	width: 46px;
 	height: 21px;
 	border-radius: 0px;
@@ -66,6 +64,6 @@
 	box-sizing: border-box;
 }
 
-.text_I370-3202-3239-61829-2504-64056-1087-15453 {
+.text_I370-3202-3239-61925-2504-64056-1087-15453 {
 }
 
