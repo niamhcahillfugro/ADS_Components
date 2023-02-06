@@ -2,12 +2,15 @@
 	width: 107px;
 	height: 48px;
 	border-radius: 0px;
+	background-color: transparent;
 }
 
 ._Button / Element / Base Default {
 	width: 107px;
 	height: 48px;
 	border-radius: 6px;
+	background-color: rgba(75, 178, 249, undefined);
+	opacity: 1;
 }
 
 .text {
@@ -20,6 +23,7 @@
 	width: 59px;
 	height: 27px;
 	border-radius: 0px;
+	background-color: transparent;
 }
 
 .text {
