@@ -1,0 +1,37 @@
+* { 
+	outline: 1px solid red; 
+}
+
+.Numeric_badge_495 {
+	width: 16px;
+	height: 16px;
+	border-radius: 30px;
+	background-color: rgba(224, 45, 60, 1);
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding-left: 5px;
+	padding-right: 5px;
+	position: relative;
+	scroll-behavior: auto;
+	box-sizing: content-box;
+}
+
+.1_817 {
+	flex: none;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	color: rgba(255, 255, 255, 1);
+	text-align: center;
+	vertical-align: middle;
+	font-size: 12px;
+	font-family: Inter;
+	font-style: normal;
+	letter-spacing: 0.12px;
+	line-height: 16px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+
