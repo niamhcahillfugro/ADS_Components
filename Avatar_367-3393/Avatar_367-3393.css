@@ -6,6 +6,8 @@
 	background-color: transparent;
 	gap: 0px;
 	position: absolute;
+	left: 0px;
+	top: 0px;
 }
 
 .background {
