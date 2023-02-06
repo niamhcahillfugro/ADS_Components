@@ -3,6 +3,7 @@
 	height: 48px;
 	border-radius: 0px;
 	background-color: transparent;
+	gap: 0px;
 }
 
 ._Button / Element / Base Default {
@@ -11,12 +12,14 @@
 	border-radius: 6px;
 	background-color: rgb(75, 178, 249);
 	opacity: 1;
+	gap: 8px;
 }
 
 .text {
 	width: 59px;
 	height: 48px;
 	border-radius: 0px;
+	gap: 10px;
 }
 
 ._Button / Element / Label {
@@ -24,6 +27,7 @@
 	height: 27px;
 	border-radius: 0px;
 	background-color: transparent;
+	gap: 0px;
 }
 
 .text {
