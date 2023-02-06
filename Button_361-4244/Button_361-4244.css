@@ -6,6 +6,8 @@
 	gap: 0px;
 	display: flex;
 	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
 }
 
 ._Button / Element / Base Default {
@@ -17,6 +19,8 @@
 	gap: 8px;
 	display: flex;
 	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
 
 .text {
@@ -26,6 +30,8 @@
 	gap: 10px;
 	display: flex;
 	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
 
 ._Button / Element / Label {
@@ -36,6 +42,8 @@
 	gap: 0px;
 	display: flex;
 	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
 }
 
 .text {
