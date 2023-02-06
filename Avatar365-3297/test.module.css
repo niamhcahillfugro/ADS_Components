@@ -1,0 +1,101 @@
+* { 
+	outline: 1px solid red; 
+}
+
+.Avatar_724 {
+	width: 60px;
+	height: 60px;
+	background-color: transparent;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.background_171 {
+	box-shadow: 0px 1px 2px black;
+	width: 60px;
+	height: 60px;
+	border-radius: 60px;
+	background-color: rgba(236, 239, 242, 1);
+	position: absolute;
+	left: calc(50% - 60px/2);
+	top: calc(50% - 60px/2);
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Initials_140 {
+	flex: none;
+	position: absolute;
+	left: calc(50% - 37px/2);
+	top: calc(50% - 22px/2);
+	color: rgba(88, 96, 106, 1);
+	text-align: center;
+	vertical-align: top;
+	font-size: 20px;
+	font-family: Inter;
+	font-style: normal;
+	letter-spacing: -0.2px;
+	line-height: 22px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 400;
+}
+
+.image_782 {
+	width: 60px;
+	height: 60px;
+	border-radius: 100px;
+	position: absolute;
+	left: calc(50% - 60px/2);
+	top: calc(50% - 60px/2);
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+	display: none;
+}
+
+.Status_badge_383 {
+	width: 20px;
+	height: 20px;
+	background-color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+	display: none;
+}
+
+.base_959 {
+	box-shadow: -1px -1px 3px black;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 1);
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.vector_438 {
+	width: 17px;
+	height: 17px;
+	position: absolute;
+	left: calc(50% - 17px/2);
+	top: calc(50% - 17px/2);
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
