@@ -1,0 +1,27 @@
+.Button {
+	width: 107px;
+	height: 48px;
+	border-radius: 0px;
+}
+
+._Button / Element / Base Default {
+	width: 107px;
+	height: 48px;
+	border-radius: 6px;
+}
+
+.text {
+	width: 59px;
+	height: 48px;
+	border-radius: 0px;
+}
+
+._Button / Element / Label {
+	width: 59px;
+	height: 27px;
+	border-radius: 0px;
+}
+
+.text {
+}
+
