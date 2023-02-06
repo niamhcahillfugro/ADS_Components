@@ -2,7 +2,7 @@
 	outline: 1px solid red; 
 }
 
-.Button_891 {
+.Button_207 {
 	width: 107px;
 	height: 48px;
 	background-color: transparent;
@@ -17,8 +17,8 @@
 	transition-timing-function: linear;
 }
 
-._Button___Element___Base_Default_276 {
-	width: 107px;
+._Button___Element___Base_Default_104 {
+	width: 171px;
 	height: 48px;
 	border-radius: 6px;
 	background-color: rgba(75, 178, 249, 1);
@@ -33,11 +33,11 @@
 	box-sizing: border-box;
 }
 
-.icon_left_843 {
+.icon_left_84 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
-	display: none;
+	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
@@ -46,7 +46,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_917 {
+.favorite_612 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -56,7 +56,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_244 {
+.Frame_273 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -70,7 +70,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_393 {
+.Vector_870 {
 	width: 20.29998779296875px;
 	height: 18.125px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	box-sizing: border-box;
 }
 
-.text_346 {
+.text_401 {
 	width: 59px;
 	height: 48px;
 	gap: 10px;
@@ -94,7 +94,7 @@
 	box-sizing: border-box;
 }
 
-._Button___Element___Label_486 {
+._Button___Element___Label_585 {
 	width: 59px;
 	height: 27px;
 	background-color: transparent;
@@ -105,7 +105,7 @@
 	box-sizing: border-box;
 }
 
-.text_191 {
+.text_487 {
 	flex: none;
 	position: absolute;
 	left: 0px;
@@ -125,11 +125,11 @@
 	font-weight: 600;
 }
 
-.icon_right_164 {
+.icon_right_285 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
-	display: none;
+	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
@@ -138,7 +138,7 @@
 	box-sizing: border-box;
 }
 
-.arrow_forward_560 {
+.arrow_forward_702 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -148,7 +148,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_112 {
+.Frame_898 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -162,7 +162,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_483 {
+.Vector_146 {
 	width: 15.79998779296875px;
 	height: 15.38818359375px;
 	position: absolute;
