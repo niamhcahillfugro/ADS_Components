@@ -2,7 +2,7 @@
 	outline: 1px solid red; 
 }
 
-.Status_badge_210 {
+.Status_badge_355 {
 	width: 20px;
 	height: 20px;
 	background-color: transparent;
@@ -14,8 +14,8 @@
 	box-sizing: border-box;
 }
 
-.base_439 {
-	box-shadow: -1px -1px 3px rgba(0, 0, 0, a);
+.base_575 {
+	box-shadow: -1px -1px 3px rgba(0, 0, 0, 0.25999999046325684);
 	width: 20px;
 	height: 20px;
 	border-radius: 20px;
@@ -30,7 +30,7 @@
 	box-sizing: border-box;
 }
 
-.vector_377 {
+.vector_440 {
 	width: 17px;
 	height: 17px;
 	position: absolute;
