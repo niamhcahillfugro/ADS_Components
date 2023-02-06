@@ -1,6 +1,6 @@
 .Button_370-3202 {
-	width: 107px;
-	height: 48px;
+	width: 78px;
+	height: 36px;
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
@@ -15,27 +15,27 @@
 	box-sizing: border-box;
 }
 
-.-Button-Element-Base-Default_I370-3202-3239-61541 {
-	width: 107px;
-	height: 48px;
+.-Button-Element-Base-Default_I370-3202-3239-61829 {
+	width: 78px;
+	height: 36px;
 	border-radius: 6px;
 	background-color: rgb(75, 178, 249);
 	opacity: 1;
-	gap: 8px;
+	gap: 6px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 	padding-bottom: 0px;
-	padding-left: 24px;
-	padding-right: 24px;
+	padding-left: 16px;
+	padding-right: 16px;
 	padding-top: 0px;
 	box-sizing: border-box;
 }
 
-.text_I370-3202-3239-61541-2504-64001 {
-	width: 59px;
-	height: 48px;
+.text_I370-3202-3239-61829-2504-64055 {
+	width: 46px;
+	height: 36px;
 	border-radius: 0px;
 	gap: 10px;
 	display: flex;
@@ -49,9 +49,9 @@
 	box-sizing: border-box;
 }
 
-.-Button-Element-Label_I370-3202-3239-61541-2504-64002 {
-	width: 59px;
-	height: 27px;
+.-Button-Element-Label_I370-3202-3239-61829-2504-64056 {
+	width: 46px;
+	height: 21px;
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
@@ -66,6 +66,6 @@
 	box-sizing: border-box;
 }
 
-.text_I370-3202-3239-61541-2504-64002-1087-15453 {
+.text_I370-3202-3239-61829-2504-64056-1087-15453 {
 }
 
