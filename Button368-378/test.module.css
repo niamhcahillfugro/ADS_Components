@@ -2,7 +2,7 @@
 	outline: 1px solid red; 
 }
 
-.Button_543 {
+.Button_580 {
 	width: 78px;
 	height: 36px;
 	background-color: transparent;
@@ -17,7 +17,7 @@
 	transition-timing-function: linear;
 }
 
-.-Button-Element-Base-Default_556 {
+._Button___Element___Base_Default_699 {
 	width: 78px;
 	height: 36px;
 	border-radius: 6px;
@@ -32,7 +32,7 @@
 	box-sizing: border-box;
 }
 
-.icon-left_32 {
+.icon_left_44 {
 	width: 20px;
 	height: 20px;
 	gap: 10px;
@@ -45,7 +45,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_139 {
+.favorite_600 {
 	width: 20px;
 	height: 20px;
 	background-color: transparent;
@@ -55,7 +55,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_664 {
+.Frame_416 {
 	width: 20px;
 	height: 20px;
 	background-color: transparent;
@@ -69,7 +69,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_227 {
+.Vector_62 {
 	width: 16.916748046875px;
 	height: 15.10400390625px;
 	position: absolute;
@@ -80,7 +80,7 @@
 	box-sizing: border-box;
 }
 
-.text_972 {
+.text_684 {
 	width: 46px;
 	height: 36px;
 	gap: 10px;
@@ -93,7 +93,7 @@
 	box-sizing: border-box;
 }
 
-.-Button-Element-Label_34 {
+._Button___Element___Label_60 {
 	width: 46px;
 	height: 21px;
 	background-color: transparent;
@@ -104,7 +104,7 @@
 	box-sizing: border-box;
 }
 
-.text_908 {
+.text_676 {
 	flex: none;
 	position: absolute;
 	left: 0px;
@@ -124,7 +124,7 @@
 	font-weight: 600;
 }
 
-.icon-right_475 {
+.icon_right_737 {
 	width: 20px;
 	height: 20px;
 	gap: 10px;
@@ -137,7 +137,7 @@
 	box-sizing: border-box;
 }
 
-.arrow-forward_421 {
+.arrow_forward_283 {
 	width: 20px;
 	height: 20px;
 	background-color: transparent;
@@ -147,7 +147,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_436 {
+.Frame_922 {
 	width: 20px;
 	height: 20px;
 	background-color: transparent;
@@ -161,7 +161,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_182 {
+.Vector_156 {
 	width: 13.166748046875px;
 	height: 12.8232421875px;
 	position: absolute;
