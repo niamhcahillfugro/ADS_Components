@@ -2,8 +2,8 @@
 	outline: 1px solid red; 
 }
 
-.Button_922 {
-	width: 124px;
+.Button_363 {
+	width: 107px;
 	height: 48px;
 	background-color: transparent;
 	display: flex;
@@ -17,8 +17,8 @@
 	transition-timing-function: linear;
 }
 
-._Button___Element___Base_Default_561 {
-	width: 124px;
+._Button___Element___Base_Default_825 {
+	width: 107px;
 	height: 48px;
 	border-radius: 6px;
 	gap: 8px;
@@ -33,7 +33,7 @@
 	border: 1.5px solid rgba(75, 178, 249, 1);
 }
 
-.icon_left_887 {
+.icon_left_491 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -46,7 +46,7 @@
 	box-sizing: border-box;
 }
 
-.favorite_481 {
+.favorite_299 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -56,7 +56,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_772 {
+.Frame_742 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -70,7 +70,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_770 {
+.Vector_140 {
 	width: 20.300048828125px;
 	height: 18.125px;
 	position: absolute;
@@ -81,8 +81,8 @@
 	box-sizing: border-box;
 }
 
-.text_132 {
-	width: 76px;
+.text_20 {
+	width: 59px;
 	height: 48px;
 	gap: 10px;
 	display: flex;
@@ -94,8 +94,8 @@
 	box-sizing: border-box;
 }
 
-._Button___Element___Label_670 {
-	width: 76px;
+._Button___Element___Label_749 {
+	width: 59px;
 	height: 27px;
 	background-color: transparent;
 	display: flex;
@@ -105,8 +105,8 @@
 	box-sizing: border-box;
 }
 
-.text_796 {
-	width: 76px;
+.text_45 {
+	width: 59px;
 	height: 27px;
 	left: 0px;
 	right: 0px;
@@ -118,14 +118,14 @@
 	font-size: 18px;
 	font-family: Inter;
 	font-style: normal;
-	letter-spacing: 3.42px;
+	letter-spacing: 0px;
 	line-height: 27px;
 	margin-top: 0;
 	margin-bottom: 6px;
 	font-weight: 600;
 }
 
-.icon_right_329 {
+.icon_right_96 {
 	width: 24px;
 	height: 24px;
 	gap: 10px;
@@ -138,7 +138,7 @@
 	box-sizing: border-box;
 }
 
-.arrow_forward_588 {
+.arrow_forward_807 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -148,7 +148,7 @@
 	box-sizing: border-box;
 }
 
-.Frame_584 {
+.Frame_401 {
 	width: 24px;
 	height: 24px;
 	background-color: transparent;
@@ -162,7 +162,7 @@
 	box-sizing: border-box;
 }
 
-.Vector_63 {
+.Vector_64 {
 	width: 15.800048828125px;
 	height: 15.38818359375px;
 	position: absolute;
