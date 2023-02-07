@@ -15,12 +15,10 @@
 	box-sizing: border-box;
 }
 
-._Button_Element_Base_Default_I380_3202_3239_61541 {
+._Button_Element_Base_Default_I380_3202_3239_61589 {
 	width: 107px;
 	height: 48px;
 	border-radius: 6px;
-	background-color: rgb(75, 178, 249);
-	opacity: 1;
 	gap: 8px;
 	display: flex;
 	flex-direction: row;
@@ -31,9 +29,10 @@
 	padding-right: 24px;
 	padding-top: 0px;
 	box-sizing: border-box;
+	border: 1.5px solid rgba(75, 178, 249, 1);
 }
 
-.text_I380_3202_3239_61541_2504_64001 {
+.text_I380_3202_3239_61589_2504_64001 {
 	width: 59px;
 	height: 48px;
 	border-radius: 0px;
@@ -49,7 +48,7 @@
 	box-sizing: border-box;
 }
 
-._Button_Element_Label_I380_3202_3239_61541_2504_64002 {
+._Button_Element_Label_I380_3202_3239_61589_2504_64002 {
 	width: 59px;
 	height: 27px;
 	border-radius: 0px;
@@ -66,14 +65,14 @@
 	box-sizing: border-box;
 }
 
-.text_I380_3202_3239_61541_2504_64002_1087_15453 {
+.text_I380_3202_3239_61589_2504_64002_1087_15453 {
 	width: 59px;
 	height: 27px;
 	background-color: null;
 	opacity: 1;
 	padding: 0;
 	box-sizing: content-box;
-	color: rgb(17, 26, 34);
+	color: rgb(75, 178, 249);
 	text-align: center;
 	vertical-align: middle;
 	font-size: 18px;
