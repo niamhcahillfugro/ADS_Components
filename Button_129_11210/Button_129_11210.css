@@ -1,0 +1,106 @@
+.Button_129_11210 {
+	width: 107px;
+	height: 48px;
+	border-radius: 0px;
+	background-color: transparent;
+	gap: 0px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	box-sizing: border-box;
+}
+
+._Label_Button_I129_11210_5748_152971 {
+	width: 107px;
+	height: 48px;
+	border-radius: 0px;
+	background-color: transparent;
+	gap: 0px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	box-sizing: border-box;
+}
+
+._Container_I129_11210_5748_152971_3239_61547 {
+	width: 107px;
+	height: 48px;
+	border-radius: 6px;
+	background-color: rgb(0, 99, 197);
+	opacity: 1;
+	gap: 8px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 0px;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-top: 0px;
+	box-sizing: border-box;
+}
+
+.text_I129_11210_5748_152971_3239_61547_2504_64001 {
+	width: 59px;
+	height: 48px;
+	border-radius: 0px;
+	gap: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	box-sizing: border-box;
+}
+
+._Label_I129_11210_5748_152971_3239_61547_2504_64002 {
+	width: 59px;
+	height: 27px;
+	border-radius: 0px;
+	background-color: transparent;
+	gap: 0px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	box-sizing: border-box;
+}
+
+.text_I129_11210_5748_152971_3239_61547_2504_64002_1087_15453 {
+	width: 59px;
+	height: 27px;
+	background-color: null;
+	opacity: 1;
+	padding: 0;
+	box-sizing: content-box;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18px;
+	font-family: Inter;
+	font-style: normal;
+	letter-spacing: 0px;
+	line-height: 1.5em;
+	margin-top: 0;
+	margin-bottom: 6px;
+	text-decoration: none;
+	font-weight: 600;
+}
+
