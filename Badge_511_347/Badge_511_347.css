@@ -68,7 +68,7 @@
 	width: 10.566650390625px;
 	height: 7.56689453125px;
 	border-radius: 0px;
-	position: absolute;
+	position: relative;
 	display: flex;
 	left: calc(50% - 10.566650390625px/2);
 	top: calc(50% - 7.56689453125px/2);
