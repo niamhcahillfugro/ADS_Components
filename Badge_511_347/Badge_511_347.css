@@ -70,10 +70,8 @@
 	border-radius: 0px;
 	position: absolute;
 	display: flex;
-	left: 0px;
-	right: 0px;
-	top: 0px;
-	bottom: 0px;
+	left: calc(50% - 10.566650390625px/2);
+	top: calc(50% - 7.56689453125px/2);
 	padding: 0;
 	box-sizing: border-box;
 }
