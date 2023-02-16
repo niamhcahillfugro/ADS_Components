@@ -1,0 +1,88 @@
+* { 
+	outline: 1px solid red; 
+}
+
+.Badge_791 {
+	width: 80px;
+	height: 24px;
+	background-color: transparent;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 0;
+	position: relative;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+._badge_master_545 {
+	width: 80px;
+	height: 24px;
+	border-radius: 30px;
+	gap: 4px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 2px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 2px;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+	border: 1px solid rgba(88, 96, 106, 1);
+}
+
+.check_298 {
+	width: 16px;
+	height: 16px;
+	background-color: transparent;
+	position: absolute;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Frame_661 {
+	width: 16px;
+	height: 16px;
+	background-color: transparent;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Vector_50 {
+	width: 10.566650390625px;
+	height: 7.56689453125px;
+	position: absolute;
+	left: calc(50% - 10.566650390625px/2);
+	top: calc(50% - 7.56689453125px/2);
+	padding: 0;
+	scroll-behavior: auto;
+	box-sizing: border-box;
+}
+
+.Badge_828 {
+	width: 44px;
+	height: 17px;
+	left: 0px;
+	top: 0px;
+	color: rgba(64, 70, 77, 1);
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	font-family: Inter;
+	font-style: normal;
+	letter-spacing: 0.14px;
+	line-height: 16.80000114440918px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+
