@@ -95,7 +95,7 @@
 	height: 27px;
 	background-color: null;
 	opacity: 1;
-	position: absolute;
+	position: inherit;
 	left: 0px;
 	right: 0px;
 	top: 0px;
