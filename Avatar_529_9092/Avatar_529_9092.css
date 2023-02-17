@@ -22,7 +22,7 @@
 	border-radius: 60px;
 	background-color: rgb(236, 239, 242);
 	opacity: 1;
-	position: absolute;
+	postition: absolute;
 	left: calc(50% - 60px/2);
 	top: calc(50% - 60px/2);
 	padding: 0;
@@ -36,7 +36,7 @@
 	height: 22px;
 	background-color: null;
 	opacity: 1;
-	position: inherit;
+	postition: absolute;
 	left: calc(50% - 37px/2);
 	top: calc(50% - 22px/2);
 	padding: 0;
