@@ -5,13 +5,13 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
-	position: relative;
 	left: 0px;
 	top: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 0px;
+	position: relative;
 	box-sizing: border-box;
 }
 
@@ -22,7 +22,6 @@
 	border-radius: 60px;
 	background-color: rgb(236, 239, 242);
 	opacity: 1;
-	position: inherit;
 	left: calc(50% - 60px/2);
 	top: calc(50% - 60px/2);
 	padding: 0;
@@ -36,7 +35,6 @@
 	height: 22px;
 	background-color: null;
 	opacity: 1;
-	position: inherit;
 	left: calc(50% - 37px/2);
 	top: calc(50% - 22px/2);
 	padding: 0;
