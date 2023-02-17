@@ -43,7 +43,7 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
-	position: inherit;
+	position: absolute;
 	left: 0px;
 	top: 0px;
 	padding-bottom: 0px;
@@ -60,7 +60,7 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
-	position: inherit;
+	position: absolute;
 	left: 0px;
 	right: 0px;
 	top: 0px;
