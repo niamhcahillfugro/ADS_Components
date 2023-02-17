@@ -95,6 +95,11 @@
 	height: 27px;
 	background-color: null;
 	opacity: 1;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
 	padding: 0;
 	box-sizing: content-box;
 	color: rgb(255, 255, 255);
