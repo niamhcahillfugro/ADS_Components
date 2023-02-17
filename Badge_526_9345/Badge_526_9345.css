@@ -5,6 +5,7 @@
 	border-radius: 0px;
 	background-color: transparent;
 	gap: 0px;
+	position: relative;
 	display: flex;
 	flex-direction: row;
 	align-items: flex-start;
@@ -13,7 +14,6 @@
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 0px;
-	position: relative;
 	box-sizing: border-box;
 }
 
@@ -23,6 +23,7 @@
 	height: 24px;
 	border-radius: 30px;
 	gap: 4px;
+	position: inherit;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
